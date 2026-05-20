@@ -1,1 +1,9 @@
-{"name": "ma-payhub", "vars": {"APP_BASE_URL": "https://ma.payhub.fyi"}}
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ma-payhub",
+  "compatibility_date": "2026-03-13",
+  "pages_build_output_dir": ".",
+  "vars": {
+    "APP_BASE_URL": "https://ma.payhub.fyi"
+  }
+}
