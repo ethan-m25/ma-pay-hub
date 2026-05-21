@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-21T00:40:02.058441+00:00",
-    "total_jobs": 581,
-    "enriched": 40
+    "built_at": "2026-05-21T10:17:26.433401+00:00",
+    "total_jobs": 588,
+    "enriched": 42
   },
   "jobs": {
     "director--data-scien-flagship-pionee-28696097": {
@@ -233,6 +233,28 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "scientist--reproduct-flagship-pionee-28696097": {
+      "summary": "Scientist builds experimental foundation for genomic platform by developing lab workflows for human gamete handling and molecular characterization, supporting technical standards, and executing experimental strategies with senior scientists.",
+      "key_skills": [
+        "reproductive biology",
+        "molecular biology",
+        "ivf",
+        "embryology",
+        "molecular characterization",
+        "bsl2",
+        "gamete handling",
+        "quality standards"
+      ],
+      "core_skills": [
+        "ivf laboratory procedures",
+        "art techniques",
+        "molecular biology experiments"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "senior-director--hr--flagship-pionee-28696097": {
       "summary": "The Sr. Director, HRBP works with Pioneering Business Unit Heads to develop HR strategies for lab companies, including talent management, leadership development, and organizational design.",
       "key_skills": [
@@ -432,6 +454,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "email-campaign-speci-recorded-future-28696097": {
+      "summary": "Builds and optimizes email campaigns to drive client adoption and retention while collaborating with leadership to understand client needs and align messaging across teams.",
+      "key_skills": [
+        "email marketing",
+        "automated campaigns",
+        "client communication",
+        "segmentation",
+        "multivariate testing",
+        "email templates",
+        "data analysis",
+        "analytical mindset"
+      ],
+      "core_skills": [
+        "email marketing",
+        "automated campaigns",
+        "segmentation",
+        "data analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "marketing-systems----recorded-future-28696097": {
       "summary": "Builds and optimizes marketing data workflows to drive pipeline growth through AI-powered automation, API integrations, and data enrichment for B2B SaaS companies.",
