@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "built_at": "2026-05-21T00:40:02.058441+00:00",
+    "total_jobs": 581,
+    "enriched": 40
+  },
+  "jobs": {
+    "director--data-scien-flagship-pionee-28696097": {
+      "summary": "Directs data science and machine learning efforts to build computational frameworks for peptide therapeutics, developing predictive models and integrating cross-functional teams.",
+      "key_skills": [
+        "machine learning",
+        "data science",
+        "computational chemistry",
+        "python",
+        "deep learning",
+        "database",
+        "mass spectrometry",
+        "chemprop"
+      ],
+      "core_skills": [
+        "machine learning",
+        "data science",
+        "computational chemistry",
+        "python"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director--program-ma-flagship-pionee-28696097": {
+      "summary": "Directs program management for major initiatives across R&D, operational, and corporate objectives, ensuring alignment with strategic goals through cross-functional coordination and milestone tracking.",
+      "key_skills": [
+        "project management",
+        "program management",
+        "biotech",
+        "ramp",
+        "cross-functional coordination",
+        "stakeholder management",
+        "grant management",
+        "risk mitigation"
+      ],
+      "core_skills": [
+        "project management",
+        "program management",
+        "biotech",
+        "cross-functional coordination"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director--protein-sc-flagship-pionee-28696097": {
+      "summary": "Directs protein and cell sciences team to produce and characterize high-quality therapeutic proteins for biologics discovery programs.",
+      "key_skills": [
+        "protein",
+        "cell",
+        "sciences",
+        "biologics",
+        "antibodies",
+        "therapeutics",
+        "drug",
+        "design"
+      ],
+      "core_skills": [
+        "scientific",
+        "leadership",
+        "biologics",
+        "drug",
+        "development"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director-senior-dire-flagship-pionee-28696097": {
+      "summary": "Designs and manages non-executive compensation programs globally for Flagship Pioneering's internal operations and Series A/B portfolio companies.",
+      "key_skills": [
+        "compensation",
+        "compensation_programs",
+        "market_practices",
+        "global_compensation_design",
+        "salary_structures",
+        "bonus_frameworks",
+        "merit_reviews",
+        "talent_acquisition"
+      ],
+      "core_skills": [
+        "compensation_programs",
+        "market_practices",
+        "global_compensation_design",
+        "talent_acquisition"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "lead-cloud-security--flagship-pionee-28696097": {
+      "summary": "Owns technical execution of cloud security and application security across Flagship and its portfolio, embedding security into engineering pipelines through ai-augmented workflows to handle routine tasks and focus on high-value decisions.",
+      "key_skills": [
+        "cloud security",
+        "application security",
+        "ci/cd security",
+        "sast",
+        "secrets scanning",
+        "iac security",
+        "container scanning",
+        "detection engineering"
+      ],
+      "core_skills": [
+        "cloud security posture management",
+        "ci/cd security",
+        "cloud-side dlp",
+        "ai-augmented workflows"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "operating-principal--flagship-pionee-28696097": {
+      "summary": "Operating Principal leads strategy and operations for NewCos, driving corporate development, partnering with scientific teams to translate science into impact, and building high-performing teams across biotech and life sciences.",
+      "key_skills": [
+        "operational planning",
+        "corporate development",
+        "strategic leadership",
+        "scientific fluency",
+        "team management",
+        "stakeholder engagement",
+        "financial planning",
+        "budget management"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "operational execution",
+        "scientific translation",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "pioneering-medicines-flagship-pionee-28696097": {
+      "summary": "The Senior Director, Head of Toxicology leads and builds the toxicology function within Pioneering Medicines, defining and executing nonclinical safety strategies across a diverse portfolio.",
+      "key_skills": [
+        "toxicology",
+        "regulatory",
+        "nonclinical",
+        "scientific",
+        "leadership",
+        "strategy",
+        "portfolio"
+      ],
+      "core_skills": [
+        "toxicology",
+        "regulatory"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "research-associate---flagship-pionee-28696097": {
+      "summary": "Research Associate designs, executes, and troubleshoots molecular cloning for nucleic acid therapeutics production while optimizing enzymatic reactions and maintaining inventory records.",
+      "key_skills": [
+        "molecular virology",
+        "biochemistry",
+        "nucleic acid production",
+        "molecular cloning",
+        "plasmid production",
+        "enzymatic reaction optimization",
+        "nucleic acid purification",
+        "expression cassettes"
+      ],
+      "core_skills": [
+        "molecular cloning",
+        "nucleic acid production",
+        "enzymatic reaction optimization",
+        "plasmid production"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "scientist--computati-flagship-pionee-28696097": {
+      "summary": "The Scientist uses computational and data-driven approaches to design novel antigens and evaluate vaccine responses by applying machine learning, structural modeling, and immunological datasets in a fast-paced startup environment.",
+      "key_skills": [
+        "computational biology",
+        "machine learning",
+        "structural modeling",
+        "protein engineering",
+        "immunology",
+        "virology",
+        "vaccinology",
+        "data analysis"
+      ],
+      "core_skills": [
+        "machine learning",
+        "structural modeling",
+        "protein engineering",
+        "immunology"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "scientist--lnp-proce-flagship-pionee-28696097": {
+      "summary": "Supports development and scale-up of lipid nanoparticle formulations for nucleic acid delivery, focusing on process optimization and improving LNP performance for modified DNA and mRNA.",
+      "key_skills": [
+        "lipid nanoparticle formulation",
+        "process optimization",
+        "scale-up",
+        "nucleic acid delivery",
+        "mRNA",
+        "DNA",
+        "formulation screening",
+        "LNP design"
+      ],
+      "core_skills": [
+        "process development",
+        "scale-up",
+        "nanoparticle manufacturing",
+        "nucleic acid formulations"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-director--hr--flagship-pionee-28696097": {
+      "summary": "The Sr. Director, HRBP works with Pioneering Business Unit Heads to develop HR strategies for lab companies, including talent management, leadership development, and organizational design.",
+      "key_skills": [
+        "human resources",
+        "strategic partnership",
+        "change management",
+        "talent management",
+        "leadership",
+        "performance management",
+        "employee engagement",
+        "organizational design"
+      ],
+      "core_skills": [
+        "strategic partnership",
+        "change management",
+        "talent management",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-engineer--ai--flagship-pionee-28696097": {
+      "summary": "Senior Engineer designs, builds, and deploys AI use cases across business functions while maintaining AI infrastructure and automation platforms.",
+      "key_skills": [
+        "ai",
+        "automation",
+        "engineering",
+        "model context protocol",
+        "agentic tooling",
+        "llm orchestration",
+        "low-code",
+        "no-code"
+      ],
+      "core_skills": [
+        "ai infrastructure",
+        "automation engineering",
+        "enterprise use case delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager-of-co-flagship-pionee-28696097": {
+      "summary": "Senior Manager of Corporate Development and Enablement serves as a key strategic and operational partner to the President, driving high-priority initiatives across corporate development, partnerships, investor/board communications, operations, and market-informed product strategy.",
+      "key_skills": [
+        "biotechnology",
+        "strategic",
+        "corporate",
+        "development",
+        "enablement",
+        "market",
+        "research",
+        "product"
+      ],
+      "core_skills": [
+        "strategic",
+        "execution",
+        "collaboration",
+        "problem-solving"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-research-asso-flagship-pionee-28696097": {
+      "summary": "Executes high-throughput experiments to characterize enzyme–substrate and enzyme–product interactions, applies chemical principles to modulate protein function, and performs biomolecular product characterization using analytical techniques.",
+      "key_skills": [
+        "chemical biology",
+        "enzyme kinetics",
+        "biomolecular synthesis",
+        "high-throughput screening",
+        "analytical chemistry",
+        "protein characterization",
+        "molecular mechanisms",
+        "bioorthogonal chemistry"
+      ],
+      "core_skills": [
+        "enzyme kinetics",
+        "biomolecular synthesis",
+        "high-throughput screening",
+        "analytical chemistry"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "-senior--research-as-flagship-pionee-28696097": {
+      "summary": "Cryo-EM Microscopist prepares high-quality cryo-EM grids and collects data for biomolecules like proteins and nanoparticles, ensuring high-throughput, high-quality datasets that feed into AI-driven computational models.",
+      "key_skills": [
+        "cryo-em",
+        "molecular visualization",
+        "structural biology",
+        "ai-driven workflows",
+        "high-throughput",
+        "grid preparation",
+        "data acquisition",
+        "biomolecules"
+      ],
+      "core_skills": [
+        "cryo-em",
+        "grid preparation",
+        "data acquisition",
+        "biomolecules"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vice-president--engi-flagship-pionee-28696097": {
+      "summary": "VP of Engineering leads a team of Principal Software Engineers to build and scale AI and digital platforms, setting technical strategy while maintaining hands-on technical involvement.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "data",
+        "software_engineering",
+        "architectural_design",
+        "system_design",
+        "product_owner",
+        "technical_leadership"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "system_design",
+        "architectural_design",
+        "software_engineering"
+      ],
+      "seniority_signal": "vp",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vice-president--fina-flagship-pionee-28696097": {
+      "summary": "The VP of Finance oversees accounting, financial operations, and compliance while providing strategic financial guidance to the executive team in a private biotech company.",
+      "key_skills": [
+        "biotech",
+        "financial",
+        "accounting",
+        "compliance",
+        "gaap",
+        "ramp"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic",
+        "financial",
+        "systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-pre----post-s-pendo-28696097": {
+      "summary": "Senior Customer Engineer owns strategic and complex Enterprise accounts across acquisition, implementation, adoption, expansion, and escalation, leading technical strategy for deployments, resolving ambiguous challenges, and partnering with account teams to drive retention and expansion.",
+      "key_skills": [
+        "customer engineering",
+        "technical strategy",
+        "enterprise accounts",
+        "implementation playbooks",
+        "technical escalation",
+        "adoption expansion",
+        "team capability building",
+        "ai tools"
+      ],
+      "core_skills": [
+        "enterprise account management",
+        "technical architecture",
+        "customer success",
+        "technical troubleshooting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "account-director---s-recorded-future-28696097": {
+      "summary": "Manages and grows SLED customers, builds new relationships and business pipeline, and maintains accurate forecasts for assigned territory.",
+      "key_skills": [
+        "sales",
+        "account_management",
+        "market_intelligence",
+        "cybersecurity"
+      ],
+      "core_skills": [
+        "sales",
+        "account_management",
+        "market_intelligence",
+        "cybersecurity"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "marketing-systems----recorded-future-28696097": {
+      "summary": "Builds and optimizes marketing data workflows to drive pipeline growth through AI-powered automation, API integrations, and data enrichment for B2B SaaS companies.",
+      "key_skills": [
+        "marketing systems",
+        "ai automation",
+        "data enrichment",
+        "api integrations",
+        "workflow engineering",
+        "generative ai",
+        "outbound engineering",
+        "marketing data governance"
+      ],
+      "core_skills": [
+        "systems thinking",
+        "b2b saas marketing automation",
+        "data orchestration",
+        "advanced workflow engineering"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "brand-designer-vanta-71119030": {
+      "summary": "Brand Designer creates high-quality brand assets across digital, web, campaigns, and print while translating creative briefs into visual solutions that align with brand standards.",
+      "key_skills": [
+        "brand design",
+        "typography",
+        "composition",
+        "visual systems",
+        "layout",
+        "figma",
+        "adobe creative suite",
+        "ai tools"
+      ],
+      "core_skills": [
+        "brand identity",
+        "visual storytelling",
+        "cross-functional collaboration",
+        "typographic excellence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "customer-success-man-vanta-71119030": {
+      "summary": "Serves as a trusted advisor for 5-10 strategic enterprise customers with 10,000+ employees, driving complex implementations and high-impact business outcomes through executive stakeholder engagement and multi-quarter projects.",
+      "key_skills": [
+        "customer success",
+        "strategic accounts",
+        "enterprise security",
+        "compliance",
+        "governance",
+        "risk management",
+        "implementation",
+        "project management"
+      ],
+      "core_skills": [
+        "strategic account management",
+        "executive stakeholder engagement",
+        "multi-quarter project execution",
+        "value realization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "design-recruiter-vanta-71119030": {
+      "summary": "Owns full-cycle recruiting for Vanta’s Design organization, partnering with design leadership to shape hiring strategy, define assessments, and close top-tier design talent in competitive markets.",
+      "key_skills": [
+        "design",
+        "recruiting",
+        "talent",
+        "strategy",
+        "portfolio",
+        "assessments",
+        "candidate",
+        "experience"
+      ],
+      "core_skills": [
+        "design_recruiting",
+        "talent_pipeline",
+        "hiring_strategy",
+        "candidate_experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "field-marketing-mana-vanta-71119030": {
+      "summary": "Owns regional field marketing strategy and execution to drive pipeline, accelerate deals, and partner with sales leadership through in-person and virtual programs.",
+      "key_skills": [
+        "field marketing",
+        "regional strategy",
+        "pipeline generation",
+        "sales partnership",
+        "event execution",
+        "program optimization",
+        "data-driven",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "regional marketing strategy",
+        "pipeline ownership",
+        "sales partnership",
+        "event execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-fullstack-sof-vanta-71119031": {
+      "summary": "Senior Software Engineer leads complex projects, sets technical direction for scaling infrastructure, and mentors engineering teams to deliver high-value products for customer security and compliance.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "complex project delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-growth-market-vanta-71119031": {
+      "summary": "Owns end-to-end demand generation strategy and execution for Vanta's integrated campaign programs, connecting story, audience, and growth bets to build pipeline for the Agentic Trust Platform.",
+      "key_skills": [
+        "growth marketing",
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales",
+        "sdr",
+        "product marketing",
+        "abm"
+      ],
+      "core_skills": [
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--engi-vanta-71119031": {
+      "summary": "Senior Manager of Engineering Recruiting leads a high-performing team of technical recruiters to build and refine recruiting strategies for complex engineering roles, partner with engineering leadership to shape talent strategy, and deliver exceptional hiring outcomes that support Vanta’s product roadmap and growth.",
+      "key_skills": [
+        "recruiting",
+        "engineering",
+        "technical",
+        "talent",
+        "hiring",
+        "full-cycle",
+        "strategic",
+        "leadership"
+      ],
+      "core_skills": [
+        "strategic",
+        "leadership",
+        "data-driven",
+        "operational"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-enabl-vanta-71119031": {
+      "summary": "Designs and delivers product enablement programs to translate product strategy into field readiness, drive adoption, and impact revenue through training, documentation, and cross-functional collaboration.",
+      "key_skills": [
+        "product enablement",
+        "curriculum design",
+        "training content",
+        "lms platforms",
+        "content management systems",
+        "knowledge bases",
+        "gong",
+        "ai tools"
+      ],
+      "core_skills": [
+        "product acumen",
+        "data-driven mindset",
+        "cross-functional collaboration",
+        "customer-first mindset"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-salesforce-ad-vanta-71119031": {
+      "summary": "Maintains, optimizes, and scales Salesforce infrastructure for channel partnerships to ensure seamless partner operations and accurate attribution tracking.",
+      "key_skills": [
+        "salesforce",
+        "prm",
+        "channel",
+        "configuration",
+        "automation",
+        "data_integrity",
+        "partner_attribution",
+        "integration"
+      ],
+      "core_skills": [
+        "salesforce_administration",
+        "prm_implementation",
+        "channel_operations",
+        "stakeholder_communication"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-software-engi-vanta-71119031": {
+      "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
+      "key_skills": [
+        "infrastructure",
+        "security",
+        "aws",
+        "typescript",
+        "react",
+        "nodejs",
+        "mongodb",
+        "githubactions"
+      ],
+      "core_skills": [
+        "infrastructure design",
+        "cloud infrastructure",
+        "security infrastructure",
+        "technical leadership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-data-engineer-vanta-71119031": {
+      "summary": "Designs and implements complex data models, builds reporting tools, and develops scalable data infrastructure to support data-driven decision-making across the company.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure",
+        "data warehousing",
+        "aws",
+        "terraform",
+        "cdc"
+      ],
+      "core_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "vp-of-brand-vanta-71119031": {
+      "summary": "VP of Brand at Vanta defines how the company shows up strategically, emotionally, and culturally across all touchpoints, leading integrated creative, content, and communications efforts to build a brand that drives perception and pipeline.",
+      "key_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "social media strategy",
+        "communications strategy",
+        "narrative storytelling",
+        "market positioning",
+        "strategic planning"
+      ],
+      "core_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "narrative storytelling"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "enterprise-security--benchling-71119031": {
+      "summary": "Enterprise Security Engineer responsible for implementing zero trust security strategies, managing identity and access controls, and ensuring secure AI integration across biotech R&D workflows.",
+      "key_skills": [
+        "ai",
+        "security",
+        "zero_trust",
+        "identity_management",
+        "macos",
+        "sso",
+        "oidc",
+        "oauth"
+      ],
+      "core_skills": [
+        "zero_trust_architecture",
+        "identity_protocols",
+        "macos_fleet_management",
+        "scripting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "inside-sales-represe-benchling-71119031": {
+      "summary": "Inside Sales Representative who partners with Enterprise Account Executives to drive growth in biotech and pharma accounts through outbound prospecting, renewal management, and translating scientific workflows into business value.",
+      "key_skills": [
+        "ai",
+        "sales",
+        "biotech",
+        "scientific",
+        "data",
+        "structured",
+        "workflow",
+        "r&d"
+      ],
+      "core_skills": [
+        "sales",
+        "scientific",
+        "ai",
+        "data"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "operations-analyst-persona-71119031": {
+      "summary": "Designs, builds, and maintains incentive pay models for Sales and Post-Sales teams, tracking performance against plans and ensuring data accuracy, timely updates, and clean documentation.",
+      "key_skills": [
+        "excel",
+        "data_management",
+        "compensation_models",
+        "financial_analysis",
+        "sales_operations",
+        "go_to_market"
+      ],
+      "core_skills": [
+        "excel",
+        "data_management",
+        "compensation_models"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--e-persona-71119031": {
+      "summary": "Owns edge networking configuration, evolves ingress layer, manages dns, builds network-layer observability, and supports regional expansion for Persona's traffic layer",
+      "key_skills": [
+        "cloudflare",
+        "kubernetes",
+        "networking",
+        "waf",
+        "rate-limiting",
+        "dns",
+        "observability",
+        "service-mesh"
+      ],
+      "core_skills": [
+        "kubernetes",
+        "networking",
+        "waf",
+        "dns"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--clinical-e-headway-71119031": {
+      "summary": "Owns end-to-end clinical education strategy to empower therapists and psychologists across Headway's network while improving clinical quality and retention through scalable learning programs.",
+      "key_skills": [
+        "clinical excellence",
+        "education",
+        "provider network",
+        "clinical quality",
+        "compliance",
+        "regulatory",
+        "learning management system",
+        "lms"
+      ],
+      "core_skills": [
+        "clinical credibility",
+        "adult learning",
+        "systems scaling",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director-of-product--headway-71119031": {
+      "summary": "Builds and leads the product vision for Headway's customer experience system, focusing on AI-powered self-resolution, agent tooling, and proactive engagement to improve support efficiency and satisfaction.",
+      "key_skills": [
+        "product",
+        "ai",
+        "cx",
+        "support",
+        "automation",
+        "healthcare",
+        "insurance",
+        "mental_health"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "ai_integration",
+        "customer_support",
+        "operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal--prescribe-headway-71119031": {
+      "summary": "Spearheads clinical quality monitoring initiatives and leads ongoing professional practice evaluation programs for mental health providers to ensure safety, efficiency, and effectiveness of care delivery.",
+      "key_skills": [
+        "clinical quality",
+        "chart review",
+        "quality monitoring",
+        "clinical documentation",
+        "professional practice evaluation",
+        "healthcare compliance",
+        "behavioral health",
+        "mental health"
+      ],
+      "core_skills": [
+        "clinical oversight",
+        "quality frameworks",
+        "chart review workflows",
+        "strategic thinking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-revenue-accou-headway-71119031": {
+      "summary": "Senior Revenue Accountant ensures accurate and compliant revenue accounting for a fast-growing company by managing ASC 606 revenue recognition, month-end close activities, and building scalable revenue processes while collaborating with cross-functional teams.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "month-end close",
+        "revenue recognition",
+        "process automation",
+        "cross-functional collaboration",
+        "audit compliance"
+      ],
+      "core_skills": [
+        "asc 606",
+        "financial reporting",
+        "revenue recognition",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    }
+  }
+}
