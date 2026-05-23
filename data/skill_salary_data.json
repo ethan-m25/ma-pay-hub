@@ -1,24 +1,24 @@
 {
-  "generated": "2026-05-22",
+  "generated": "2026-05-23",
   "categories": {
     "Data & Analytics": {
-      "cat_median": 134375,
-      "n_jobs": 95,
+      "cat_median": 129188,
+      "n_jobs": 96,
       "skills": [
         {
           "skill": "machine learning",
           "median": 207750,
           "n": 2,
-          "dev": 54.6
+          "dev": 60.8
         }
       ]
     },
     "Management": {
       "cat_median": 161250,
-      "n_jobs": 102,
+      "n_jobs": 105,
       "skills": [
         {
-          "skill": "strategy",
+          "skill": "toxicology",
           "median": 254000,
           "n": 3,
           "dev": 57.5
@@ -30,13 +30,13 @@
           "dev": 57.5
         },
         {
-          "skill": "toxicology",
+          "skill": "strategy",
           "median": 254000,
           "n": 3,
           "dev": 57.5
         },
         {
-          "skill": "regulatory",
+          "skill": "scientific",
           "median": 254000,
           "n": 3,
           "dev": 57.5
@@ -48,7 +48,7 @@
           "dev": 48.8
         },
         {
-          "skill": "scientific",
+          "skill": "regulatory",
           "median": 240000,
           "n": 4,
           "dev": 48.8
@@ -60,16 +60,10 @@
           "dev": 13.0
         },
         {
-          "skill": "compliance",
-          "median": 180500,
-          "n": 4,
-          "dev": 11.9
-        },
-        {
           "skill": "project management",
-          "median": 178875,
-          "n": 4,
-          "dev": 10.9
+          "median": 150000,
+          "n": 3,
+          "dev": -7.0
         },
         {
           "skill": "multi-quarter project execution",
@@ -78,19 +72,25 @@
           "dev": -7.0
         },
         {
-          "skill": "enterprise security",
+          "skill": "implementation",
           "median": 150000,
           "n": 3,
           "dev": -7.0
         },
         {
-          "skill": "governance",
+          "skill": "value realization",
           "median": 150000,
           "n": 3,
           "dev": -7.0
         },
         {
-          "skill": "customer success",
+          "skill": "risk management",
+          "median": 150000,
+          "n": 3,
+          "dev": -7.0
+        },
+        {
+          "skill": "executive stakeholder engagement",
           "median": 150000,
           "n": 3,
           "dev": -7.0
@@ -99,7 +99,7 @@
     },
     "Engineering": {
       "cat_median": 161250,
-      "n_jobs": 117,
+      "n_jobs": 122,
       "skills": [
         {
           "skill": "githubactions",
@@ -108,34 +108,40 @@
           "dev": 45.4
         },
         {
-          "skill": "security",
+          "skill": "cloud infrastructure",
           "median": 234500,
           "n": 4,
           "dev": 45.4
         },
         {
-          "skill": "mongodb",
+          "skill": "security infrastructure",
           "median": 234500,
           "n": 4,
           "dev": 45.4
         },
         {
-          "skill": "aws",
-          "median": 232000,
-          "n": 5,
-          "dev": 43.9
+          "skill": "infrastructure design",
+          "median": 234500,
+          "n": 4,
+          "dev": 45.4
+        },
+        {
+          "skill": "infrastructure",
+          "median": 234500,
+          "n": 4,
+          "dev": 45.4
+        },
+        {
+          "skill": "react",
+          "median": 218750,
+          "n": 6,
+          "dev": 35.7
         },
         {
           "skill": "nodejs",
-          "median": 218750,
-          "n": 6,
-          "dev": 35.7
-        },
-        {
-          "skill": "technical leadership",
-          "median": 218750,
-          "n": 6,
-          "dev": 35.7
+          "median": 212000,
+          "n": 2,
+          "dev": 31.5
         },
         {
           "skill": "complex project delivery",
@@ -144,7 +150,7 @@
           "dev": 31.5
         },
         {
-          "skill": "react",
+          "skill": "technical leadership",
           "median": 212000,
           "n": 2,
           "dev": 31.5
@@ -165,16 +171,34 @@
     },
     "Other": {
       "cat_median": 146562,
-      "n_jobs": 124,
+      "n_jobs": 126,
       "skills": [
         {
-          "skill": "biomolecular synthesis",
+          "skill": "cross-functional collaboration",
+          "median": 181175,
+          "n": 2,
+          "dev": 23.6
+        },
+        {
+          "skill": "analytical chemistry",
           "median": 94125,
           "n": 3,
           "dev": -35.8
         },
         {
-          "skill": "chemical biology",
+          "skill": "enzyme kinetics",
+          "median": 94125,
+          "n": 3,
+          "dev": -35.8
+        },
+        {
+          "skill": "molecular mechanisms",
+          "median": 94125,
+          "n": 3,
+          "dev": -35.8
+        },
+        {
+          "skill": "biomolecular synthesis",
           "median": 94125,
           "n": 3,
           "dev": -35.8
@@ -186,25 +210,19 @@
           "dev": -35.8
         },
         {
-          "skill": "analytical chemistry",
+          "skill": "chemical biology",
           "median": 94125,
           "n": 3,
           "dev": -35.8
         },
         {
-          "skill": "high-throughput screening",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
+          "skill": "expression cassettes",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
         },
         {
-          "skill": "protein characterization",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
-        },
-        {
-          "skill": "enzymatic reaction optimization",
+          "skill": "nucleic acid production",
           "median": 79250,
           "n": 2,
           "dev": -45.9
@@ -216,13 +234,7 @@
           "dev": -45.9
         },
         {
-          "skill": "plasmid production",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "nucleic acid purification",
+          "skill": "molecular virology",
           "median": 79250,
           "n": 2,
           "dev": -45.9
@@ -234,7 +246,7 @@
           "dev": -45.9
         },
         {
-          "skill": "nucleic acid production",
+          "skill": "nucleic acid purification",
           "median": 79250,
           "n": 2,
           "dev": -45.9
