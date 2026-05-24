@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23",
+  "generated": "2026-05-24",
   "categories": {
     "Data & Analytics": {
       "cat_median": 129188,
@@ -18,6 +18,18 @@
       "n_jobs": 105,
       "skills": [
         {
+          "skill": "portfolio",
+          "median": 254000,
+          "n": 3,
+          "dev": 57.5
+        },
+        {
+          "skill": "strategy",
+          "median": 254000,
+          "n": 3,
+          "dev": 57.5
+        },
+        {
           "skill": "toxicology",
           "median": 254000,
           "n": 3,
@@ -30,37 +42,25 @@
           "dev": 57.5
         },
         {
-          "skill": "strategy",
+          "skill": "leadership",
           "median": 254000,
           "n": 3,
           "dev": 57.5
         },
         {
           "skill": "scientific",
-          "median": 254000,
-          "n": 3,
-          "dev": 57.5
-        },
-        {
-          "skill": "leadership",
           "median": 240000,
           "n": 4,
           "dev": 48.8
         },
         {
-          "skill": "regulatory",
-          "median": 240000,
+          "skill": "compliance",
+          "median": 180500,
           "n": 4,
-          "dev": 48.8
+          "dev": 11.9
         },
         {
-          "skill": "development",
-          "median": 182250,
-          "n": 2,
-          "dev": 13.0
-        },
-        {
-          "skill": "project management",
+          "skill": "enterprise security",
           "median": 150000,
           "n": 3,
           "dev": -7.0
@@ -78,13 +78,7 @@
           "dev": -7.0
         },
         {
-          "skill": "value realization",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
-        },
-        {
-          "skill": "risk management",
+          "skill": "strategic accounts",
           "median": 150000,
           "n": 3,
           "dev": -7.0
@@ -102,19 +96,7 @@
       "n_jobs": 122,
       "skills": [
         {
-          "skill": "githubactions",
-          "median": 234500,
-          "n": 4,
-          "dev": 45.4
-        },
-        {
           "skill": "cloud infrastructure",
-          "median": 234500,
-          "n": 4,
-          "dev": 45.4
-        },
-        {
-          "skill": "security infrastructure",
           "median": 234500,
           "n": 4,
           "dev": 45.4
@@ -126,22 +108,28 @@
           "dev": 45.4
         },
         {
-          "skill": "infrastructure",
-          "median": 234500,
-          "n": 4,
-          "dev": 45.4
+          "skill": "aws",
+          "median": 232000,
+          "n": 5,
+          "dev": 43.9
         },
         {
-          "skill": "react",
+          "skill": "nodejs",
           "median": 218750,
           "n": 6,
           "dev": 35.7
         },
         {
-          "skill": "nodejs",
-          "median": 212000,
-          "n": 2,
-          "dev": 31.5
+          "skill": "technical leadership",
+          "median": 218750,
+          "n": 6,
+          "dev": 35.7
+        },
+        {
+          "skill": "typescript",
+          "median": 218750,
+          "n": 6,
+          "dev": 35.7
         },
         {
           "skill": "complex project delivery",
@@ -150,22 +138,10 @@
           "dev": 31.5
         },
         {
-          "skill": "technical leadership",
+          "skill": "react",
           "median": 212000,
           "n": 2,
           "dev": 31.5
-        },
-        {
-          "skill": "typescript",
-          "median": 212000,
-          "n": 2,
-          "dev": 31.5
-        },
-        {
-          "skill": "engineering",
-          "median": 189250,
-          "n": 2,
-          "dev": 17.4
         }
       ]
     },
@@ -180,13 +156,7 @@
           "dev": 23.6
         },
         {
-          "skill": "analytical chemistry",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
-        },
-        {
-          "skill": "enzyme kinetics",
+          "skill": "biomolecular synthesis",
           "median": 94125,
           "n": 3,
           "dev": -35.8
@@ -198,7 +168,13 @@
           "dev": -35.8
         },
         {
-          "skill": "biomolecular synthesis",
+          "skill": "enzyme kinetics",
+          "median": 94125,
+          "n": 3,
+          "dev": -35.8
+        },
+        {
+          "skill": "high-throughput screening",
           "median": 94125,
           "n": 3,
           "dev": -35.8
@@ -210,25 +186,13 @@
           "dev": -35.8
         },
         {
-          "skill": "chemical biology",
+          "skill": "analytical chemistry",
           "median": 94125,
           "n": 3,
           "dev": -35.8
         },
         {
-          "skill": "expression cassettes",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "nucleic acid production",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "molecular cloning",
+          "skill": "nucleic acid purification",
           "median": 79250,
           "n": 2,
           "dev": -45.9
@@ -240,13 +204,25 @@
           "dev": -45.9
         },
         {
-          "skill": "biochemistry",
+          "skill": "molecular cloning",
           "median": 79250,
           "n": 2,
           "dev": -45.9
         },
         {
-          "skill": "nucleic acid purification",
+          "skill": "enzymatic reaction optimization",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
+        },
+        {
+          "skill": "plasmid production",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
+        },
+        {
+          "skill": "expression cassettes",
           "median": 79250,
           "n": 2,
           "dev": -45.9
