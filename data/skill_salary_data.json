@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-24",
+  "generated": "2026-05-25",
   "categories": {
     "Data & Analytics": {
-      "cat_median": 129188,
-      "n_jobs": 96,
+      "cat_median": 124000,
+      "n_jobs": 97,
       "skills": [
         {
           "skill": "machine learning",
           "median": 207750,
           "n": 2,
-          "dev": 60.8
+          "dev": 67.5
         }
       ]
     },
@@ -24,19 +24,13 @@
           "dev": 57.5
         },
         {
-          "skill": "strategy",
-          "median": 254000,
-          "n": 3,
-          "dev": 57.5
-        },
-        {
           "skill": "toxicology",
           "median": 254000,
           "n": 3,
           "dev": 57.5
         },
         {
-          "skill": "nonclinical",
+          "skill": "strategy",
           "median": 254000,
           "n": 3,
           "dev": 57.5
@@ -54,19 +48,31 @@
           "dev": 48.8
         },
         {
-          "skill": "compliance",
-          "median": 180500,
+          "skill": "regulatory",
+          "median": 240000,
           "n": 4,
-          "dev": 11.9
+          "dev": 48.8
         },
         {
-          "skill": "enterprise security",
+          "skill": "project management",
+          "median": 178875,
+          "n": 4,
+          "dev": 10.9
+        },
+        {
+          "skill": "multi-quarter project execution",
           "median": 150000,
           "n": 3,
           "dev": -7.0
         },
         {
-          "skill": "multi-quarter project execution",
+          "skill": "strategic account management",
+          "median": 150000,
+          "n": 3,
+          "dev": -7.0
+        },
+        {
+          "skill": "value realization",
           "median": 150000,
           "n": 3,
           "dev": -7.0
@@ -78,13 +84,7 @@
           "dev": -7.0
         },
         {
-          "skill": "strategic accounts",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
-        },
-        {
-          "skill": "executive stakeholder engagement",
+          "skill": "governance",
           "median": 150000,
           "n": 3,
           "dev": -7.0
@@ -96,22 +96,22 @@
       "n_jobs": 122,
       "skills": [
         {
-          "skill": "cloud infrastructure",
-          "median": 234500,
-          "n": 4,
-          "dev": 45.4
-        },
-        {
           "skill": "infrastructure design",
           "median": 234500,
           "n": 4,
           "dev": 45.4
         },
         {
-          "skill": "aws",
-          "median": 232000,
-          "n": 5,
-          "dev": 43.9
+          "skill": "githubactions",
+          "median": 234500,
+          "n": 4,
+          "dev": 45.4
+        },
+        {
+          "skill": "technical leadership",
+          "median": 218750,
+          "n": 6,
+          "dev": 35.7
         },
         {
           "skill": "nodejs",
@@ -120,7 +120,7 @@
           "dev": 35.7
         },
         {
-          "skill": "technical leadership",
+          "skill": "react",
           "median": 218750,
           "n": 6,
           "dev": 35.7
@@ -136,12 +136,6 @@
           "median": 212000,
           "n": 2,
           "dev": 31.5
-        },
-        {
-          "skill": "react",
-          "median": 212000,
-          "n": 2,
-          "dev": 31.5
         }
       ]
     },
@@ -150,25 +144,13 @@
       "n_jobs": 126,
       "skills": [
         {
-          "skill": "cross-functional collaboration",
-          "median": 181175,
-          "n": 2,
-          "dev": 23.6
-        },
-        {
           "skill": "biomolecular synthesis",
           "median": 94125,
           "n": 3,
           "dev": -35.8
         },
         {
-          "skill": "molecular mechanisms",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
-        },
-        {
-          "skill": "enzyme kinetics",
+          "skill": "protein characterization",
           "median": 94125,
           "n": 3,
           "dev": -35.8
@@ -180,7 +162,13 @@
           "dev": -35.8
         },
         {
-          "skill": "bioorthogonal chemistry",
+          "skill": "molecular mechanisms",
+          "median": 94125,
+          "n": 3,
+          "dev": -35.8
+        },
+        {
+          "skill": "chemical biology",
           "median": 94125,
           "n": 3,
           "dev": -35.8
@@ -192,7 +180,25 @@
           "dev": -35.8
         },
         {
-          "skill": "nucleic acid purification",
+          "skill": "enzymatic reaction optimization",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
+        },
+        {
+          "skill": "expression cassettes",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
+        },
+        {
+          "skill": "nucleic acid production",
+          "median": 79250,
+          "n": 2,
+          "dev": -45.9
+        },
+        {
+          "skill": "plasmid production",
           "median": 79250,
           "n": 2,
           "dev": -45.9
@@ -205,24 +211,6 @@
         },
         {
           "skill": "molecular cloning",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "enzymatic reaction optimization",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "plasmid production",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
-        },
-        {
-          "skill": "expression cassettes",
           "median": 79250,
           "n": 2,
           "dev": -45.9
