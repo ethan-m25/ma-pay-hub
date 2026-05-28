@@ -1,255 +1,271 @@
 {
-  "generated": "2026-05-27",
+  "generated": "2026-05-28",
   "categories": {
     "Data & Analytics": {
       "cat_median": 123750,
-      "n_jobs": 99,
+      "n_jobs": 148,
       "skills": []
     },
     "Management": {
-      "cat_median": 161250,
-      "n_jobs": 107,
+      "cat_median": 153250,
+      "n_jobs": 290,
       "skills": [
         {
-          "skill": "portfolio",
+          "skill": "strategy",
           "median": 254000,
           "n": 3,
-          "dev": 57.5
+          "dev": 65.7
+        },
+        {
+          "skill": "scientific",
+          "median": 254000,
+          "n": 3,
+          "dev": 65.7
         },
         {
           "skill": "toxicology",
           "median": 254000,
           "n": 3,
-          "dev": 57.5
+          "dev": 65.7
         },
         {
           "skill": "nonclinical",
           "median": 254000,
           "n": 3,
-          "dev": 57.5
+          "dev": 65.7
         },
         {
-          "skill": "strategy",
-          "median": 254000,
-          "n": 3,
-          "dev": 57.5
+          "skill": "leadership",
+          "median": 240000,
+          "n": 4,
+          "dev": 56.6
         },
         {
           "skill": "regulatory",
-          "median": 254000,
-          "n": 3,
-          "dev": 57.5
-        },
-        {
-          "skill": "scientific",
           "median": 240000,
           "n": 4,
-          "dev": 48.8
+          "dev": 56.6
         },
         {
-          "skill": "risk management",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
-        },
-        {
-          "skill": "value realization",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
-        },
-        {
-          "skill": "implementation",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
-        },
-        {
-          "skill": "governance",
-          "median": 150000,
-          "n": 3,
-          "dev": -7.0
+          "skill": "compliance",
+          "median": 165350,
+          "n": 5,
+          "dev": 7.9
         },
         {
           "skill": "multi-quarter project execution",
           "median": 150000,
           "n": 3,
-          "dev": -7.0
+          "dev": -2.1
+        },
+        {
+          "skill": "implementation",
+          "median": 150000,
+          "n": 3,
+          "dev": -2.1
+        },
+        {
+          "skill": "executive stakeholder engagement",
+          "median": 150000,
+          "n": 3,
+          "dev": -2.1
         },
         {
           "skill": "strategic account management",
           "median": 150000,
           "n": 3,
-          "dev": -7.0
+          "dev": -2.1
+        },
+        {
+          "skill": "governance",
+          "median": 150000,
+          "n": 3,
+          "dev": -2.1
         }
       ]
     },
     "Engineering": {
-      "cat_median": 161250,
-      "n_jobs": 125,
+      "cat_median": 175000,
+      "n_jobs": 251,
       "skills": [
         {
-          "skill": "mongodb",
+          "skill": "githubactions",
           "median": 234500,
           "n": 4,
-          "dev": 45.4
+          "dev": 34.0
         },
         {
-          "skill": "security infrastructure",
+          "skill": "infrastructure",
           "median": 234500,
           "n": 4,
-          "dev": 45.4
+          "dev": 34.0
         },
         {
-          "skill": "infrastructure design",
+          "skill": "cloud infrastructure",
           "median": 234500,
           "n": 4,
-          "dev": 45.4
+          "dev": 34.0
         },
         {
-          "skill": "security",
-          "median": 225500,
+          "skill": "aws",
+          "median": 232000,
           "n": 5,
-          "dev": 39.8
+          "dev": 32.6
         },
         {
           "skill": "typescript",
-          "median": 218750,
-          "n": 6,
-          "dev": 35.7
+          "median": 225500,
+          "n": 7,
+          "dev": 28.9
         },
         {
-          "skill": "nodejs",
-          "median": 218750,
-          "n": 6,
-          "dev": 35.7
+          "skill": "technical leadership",
+          "median": 225500,
+          "n": 7,
+          "dev": 28.9
         },
         {
           "skill": "complex project delivery",
           "median": 212000,
           "n": 2,
-          "dev": 31.5
+          "dev": 21.1
         },
         {
           "skill": "react",
           "median": 212000,
-          "n": 2,
-          "dev": 31.5
+          "n": 3,
+          "dev": 21.1
         },
         {
-          "skill": "technical leadership",
+          "skill": "nodejs",
           "median": 212000,
           "n": 2,
-          "dev": 31.5
+          "dev": 21.1
+        },
+        {
+          "skill": "engineering",
+          "median": 189250,
+          "n": 2,
+          "dev": 8.1
         }
       ]
     },
     "Other": {
-      "cat_median": 146562,
-      "n_jobs": 128,
+      "cat_median": 100500,
+      "n_jobs": 304,
       "skills": [
         {
-          "skill": "enzyme kinetics",
+          "skill": "analytical chemistry",
           "median": 94125,
           "n": 3,
-          "dev": -35.8
-        },
-        {
-          "skill": "chemical biology",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
-        },
-        {
-          "skill": "protein characterization",
-          "median": 94125,
-          "n": 3,
-          "dev": -35.8
+          "dev": -6.3
         },
         {
           "skill": "molecular mechanisms",
           "median": 94125,
           "n": 3,
-          "dev": -35.8
+          "dev": -6.3
         },
         {
-          "skill": "analytical chemistry",
+          "skill": "chemical biology",
           "median": 94125,
           "n": 3,
-          "dev": -35.8
+          "dev": -6.3
         },
         {
-          "skill": "biomolecular synthesis",
+          "skill": "enzyme kinetics",
           "median": 94125,
           "n": 3,
-          "dev": -35.8
+          "dev": -6.3
         },
         {
-          "skill": "molecular cloning",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
+          "skill": "high-throughput screening",
+          "median": 94125,
+          "n": 3,
+          "dev": -6.3
         },
         {
-          "skill": "biochemistry",
-          "median": 79250,
-          "n": 2,
-          "dev": -45.9
+          "skill": "bioorthogonal chemistry",
+          "median": 94125,
+          "n": 3,
+          "dev": -6.3
         },
         {
-          "skill": "expression cassettes",
+          "skill": "plasmid production",
           "median": 79250,
           "n": 2,
-          "dev": -45.9
+          "dev": -21.1
         },
         {
           "skill": "nucleic acid purification",
           "median": 79250,
           "n": 2,
-          "dev": -45.9
+          "dev": -21.1
+        },
+        {
+          "skill": "enzymatic reaction optimization",
+          "median": 79250,
+          "n": 2,
+          "dev": -21.1
         },
         {
           "skill": "nucleic acid production",
           "median": 79250,
           "n": 2,
-          "dev": -45.9
+          "dev": -21.1
+        },
+        {
+          "skill": "expression cassettes",
+          "median": 79250,
+          "n": 2,
+          "dev": -21.1
         },
         {
           "skill": "molecular virology",
           "median": 79250,
           "n": 2,
-          "dev": -45.9
+          "dev": -21.1
         }
       ]
     },
     "People & HR": {
-      "cat_median": 177875,
-      "n_jobs": 6,
+      "cat_median": 164875,
+      "n_jobs": 14,
       "skills": []
     },
     "Finance": {
       "cat_median": 123750,
-      "n_jobs": 27,
+      "n_jobs": 54,
       "skills": []
     },
     "Marketing": {
-      "cat_median": 139438,
-      "n_jobs": 8,
+      "cat_median": 156000,
+      "n_jobs": 25,
       "skills": []
     },
     "Design": {
-      "cat_median": 175250,
-      "n_jobs": 4,
+      "cat_median": 167000,
+      "n_jobs": 9,
       "skills": []
     },
     "Product": {
-      "cat_median": 149375,
-      "n_jobs": 56,
+      "cat_median": 173812,
+      "n_jobs": 98,
       "skills": []
     },
     "Sales": {
-      "cat_median": 110000,
-      "n_jobs": 7,
+      "cat_median": 113350,
+      "n_jobs": 24,
+      "skills": []
+    },
+    "Legal": {
+      "cat_median": 134375,
+      "n_jobs": 28,
+      "skills": []
+    },
+    "Operations": {
+      "cat_median": 123750,
+      "n_jobs": 74,
       "skills": []
     }
   }

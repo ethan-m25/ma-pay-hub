@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-27T10:09:29.871504+00:00",
-    "total_jobs": 628,
-    "enriched": 42
+    "built_at": "2026-05-28T11:15:53.877529+00:00",
+    "total_jobs": 1332,
+    "enriched": 53
   },
   "jobs": {
     "director--data-scien-flagship-pionee-28696097": {
@@ -945,6 +945,254 @@
         "financial reporting",
         "revenue recognition",
         "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "analytics-lead--full-affirm-66795106": {
+      "summary": "Owns marketplace monetization and economics, balancing merchant supply, consumer demand, and pricing to drive engagement, conversion, and profitability while building dashboards and collaborating with cross-functional teams.",
+      "key_skills": [
+        "marketplace analytics",
+        "monetization",
+        "economics",
+        "pricing",
+        "supply-demand dynamics",
+        "data analysis",
+        "sql",
+        "python"
+      ],
+      "core_skills": [
+        "marketplace economics",
+        "supply-demand dynamics",
+        "pricing strategy",
+        "data-driven decision making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "capital-markets-mana-affirm-66795106": {
+      "summary": "Develops and executes Capital Markets strategy, owns deal processes from start to finish, and collaborates with cross-functional teams to scale Affirm’s capital platform.",
+      "key_skills": [
+        "structured finance",
+        "fixed-income investing",
+        "trading",
+        "private equity",
+        "consulting",
+        "product/strategy"
+      ],
+      "core_skills": [
+        "technical skills",
+        "interpersonal skills",
+        "multi-tasking",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "compliance-lead--net-affirm-66795106": {
+      "summary": "The Compliance Lead, Network Growth, works with merchant risk teams to identify and mitigate compliance risks for partners, reviews marketing materials for regulatory compliance, and collaborates across legal, compliance, risk, and revenue departments to address compliance issues and develop training materials.",
+      "key_skills": [
+        "compliance",
+        "fintech",
+        "regulatory",
+        "risk",
+        "advisory",
+        "legal",
+        "policy",
+        "consumer"
+      ],
+      "core_skills": [
+        "compliance advisory",
+        "regulatory risk assessment",
+        "cross-functional collaboration",
+        "financial services compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "customer-operations--affirm-66795106": {
+      "summary": "Resolves escalated customer inquiries via email and phone, maintains high quality assurance scores, and collaborates with cross-functional teams to implement new systems and products.",
+      "key_skills": [
+        "customer service",
+        "email communication",
+        "quality assurance",
+        "financial knowledge",
+        "problem solving",
+        "analytical thinking",
+        "team collaboration",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "customer inquiries resolution",
+        "omnichannel support",
+        "financial products",
+        "KPI management"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--partner-ma-affirm-66795106": {
+      "summary": "Owns and scales Partner Marketing function to drive revenue growth through co-marketing campaigns and merchant partnerships.",
+      "key_skills": [
+        "partner marketing",
+        "performance marketing",
+        "affiliate marketing",
+        "media",
+        "attribution",
+        "marketplace",
+        "co-marketing",
+        "revenue growth"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "team leadership",
+        "analytical skills",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--stra-affirm-66795106": {
+      "summary": "This Senior Manager leads strategic finance initiatives for Affirm's Consumer business, partnering with Product, Growth Analytics, Credit, and Revenue teams to influence product strategy, user growth, and monetization models while driving financial planning and forecasting.",
+      "key_skills": [
+        "strategic finance",
+        "financial modeling",
+        "unit economics",
+        "customer lifetime value",
+        "data visualization",
+        "sql",
+        "cross-functional leadership",
+        "analytical frameworks"
+      ],
+      "core_skills": [
+        "financial modeling",
+        "unit economics",
+        "customer lifetime value",
+        "cross-functional leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-staff-machine-affirm-66795106": {
+      "summary": "Senior Staff Machine Learning Engineer designs, implements, and scales advanced ML systems while mentoring senior engineers and influencing architectural decisions across Affirm's financial services.",
+      "key_skills": [
+        "machine learning",
+        "python",
+        "pytorch",
+        "xgboost",
+        "distributed systems",
+        "transformers",
+        "feature stores",
+        "model monitoring"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "system architecture",
+        "cross-functional collaboration",
+        "ml strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-staff-softwar-affirm-66795106": {
+      "summary": "Senior Staff Software Engineer shapes best practices, leads architectural choices, and drives delivery of critical web platform and infrastructure initiatives.",
+      "key_skills": [
+        "react",
+        "typescript",
+        "nx",
+        "oxlint",
+        "turbo",
+        "rspack",
+        "vite"
+      ],
+      "core_skills": [
+        "architecting",
+        "building",
+        "scaling",
+        "web_apps"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--product-ma-marqeta-66795106": {
+      "summary": "Directs product vision for next-generation payment platform, leading cross-functional teams to modernize systems and ensure scalability while driving customer value and platform performance.",
+      "key_skills": [
+        "product management",
+        "platform modernization",
+        "scalability",
+        "operational excellence",
+        "customer trust",
+        "systemic thinking",
+        "cross-functional leadership",
+        "technical acumen"
+      ],
+      "core_skills": [
+        "product strategy",
+        "platform architecture",
+        "operational rigor",
+        "cross-functional leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote/hybrid"
+    },
+    "income-tax-senior-ma-marqeta-66795106": {
+      "summary": "Manages U.S. and international quarterly and annual tax reporting and compliance for a fast-paced global tech company.",
+      "key_skills": [
+        "tax",
+        "compliance",
+        "reporting",
+        "international",
+        "sox",
+        "asc"
+      ],
+      "core_skills": [
+        "tax",
+        "compliance",
+        "reporting",
+        "international"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal-security-e-marqeta-66795106": {
+      "summary": "Serves as technical lead for security engineering, focusing on product security and AI security, including threat modeling payment features, securing APIs, building genAI controls, and ensuring AI-powered capabilities ship securely.",
+      "key_skills": [
+        "security engineering",
+        "threat modeling",
+        "ai security",
+        "api security",
+        "secure sdlc",
+        "model risk",
+        "genai security",
+        "prompt injection"
+      ],
+      "core_skills": [
+        "threat modeling",
+        "api security",
+        "ai security",
+        "secure sdlc"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
