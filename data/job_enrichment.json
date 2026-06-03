@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T12:29:57.426767+00:00",
-    "total_jobs": 1695,
-    "enriched": 649
+    "built_at": "2026-06-03T11:43:50.282293+00:00",
+    "total_jobs": 1773,
+    "enriched": 664
   },
   "jobs": {
     "associate-director---flagship-pionee-28696097": {
@@ -2466,6 +2466,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "staff-software-engin-vanta-71119031": {
+      "summary": "Drives technical strategy across infrastructure and security systems, designing platform solutions that enable engineering teams to ship products quickly and securely while ensuring enterprise-grade security and compliance.",
+      "key_skills": [
+        "aws",
+        "containerization",
+        "distributed_systems",
+        "cloud_infrastructure",
+        "security_hardening",
+        "mongodb",
+        "event_driven_architecture",
+        "typescript"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "system_design",
+        "platform_engineering",
+        "cloud_infrastructure"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "vp-of-brand-vanta-71119031": {
       "summary": "VP of Brand at Vanta defines how the company shows up strategically, emotionally, and culturally across all touchpoints, leading integrated creative, content, and communications efforts to build a brand that drives perception and pipeline.",
       "key_skills": [
@@ -3387,6 +3410,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "hedge-fund-accountin-int-l-fund-serv-05551653": {
+      "summary": "Validates and reviews daily fund activities while maintaining controls, calculates fund activities including NAV and SEC yields, processes distributions, resolves exceptions, and ensures compliance with accounting procedures.",
+      "key_skills": [
+        "hedge fund accounting",
+        "fund administration",
+        "financial services",
+        "accounting",
+        "fund accounting",
+        "client operations",
+        "securities",
+        "compliance"
+      ],
+      "core_skills": [
+        "fund administration",
+        "accounting",
+        "financial services",
+        "client operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "head-of-ai-security--ssb-t-05551653": {
       "summary": "Defines and governs secure-by-design AI architectures across enterprise technology, ensuring AI systems are delivered safely and in compliance with regulatory expectations while enabling innovation.",
       "key_skills": [
@@ -3577,6 +3623,29 @@
       ],
       "seniority_signal": "vp",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "business-architect---ssga-trust-comp-05551653": {
+      "summary": "Business Architect, VP III at State Street Investment Management develops and matures business architecture functions to align business capabilities with strategic objectives, driving transformation to a Product, Platform, and Service operating model through cross-functional collaboration.",
+      "key_skills": [
+        "business architecture",
+        "business capability modeling",
+        "value stream mapping",
+        "operating model design",
+        "cloud platforms",
+        "solution architecture",
+        "genai",
+        "enterprise transformation"
+      ],
+      "core_skills": [
+        "business architecture",
+        "solution architecture",
+        "cloud platforms",
+        "enterprise transformation"
+      ],
+      "seniority_signal": "vp",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -4133,6 +4202,52 @@
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "technical-systems-en-charles-river-s-05551654": {
+      "summary": "Technical Systems Engineer executes client upgrades for investment management platforms using blue-green deployments, migrating client configurations, validating system functionality, troubleshooting SQL Server issues, and collaborating with client teams.",
+      "key_skills": [
+        "sql server",
+        "database",
+        "troubleshooting",
+        "enterprise applications",
+        "blue-green deployment",
+        "saaS",
+        "investment management",
+        "cloud"
+      ],
+      "core_skills": [
+        "sql scripting",
+        "troubleshooting",
+        "database layer",
+        "enterprise applications"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-software-e-charles-river-s-05551654": {
+      "summary": "This Principal Software Engineer II (Vice President) role involves leading technical architecture, strategy, and engineering excellence for large-scale enterprise platforms while maintaining hands-on involvement in complex software development and problem-solving.",
+      "key_skills": [
+        "java",
+        "cloud",
+        "distributed systems",
+        "performance",
+        "scalability",
+        "security",
+        "reliability",
+        "maintainability"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "architecture",
+        "engineering excellence",
+        "cross-team collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -4901,6 +5016,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "business-analysis--r-charles-river-s-05551656": {
+      "summary": "Product Manager for Real Assets who enhances infrastructure and real estate product offerings through customer insights and cross-functional collaboration.",
+      "key_skills": [
+        "business analysis",
+        "real assets",
+        "product management",
+        "infrastructure",
+        "real estate",
+        "investment management",
+        "private markets",
+        "agile"
+      ],
+      "core_skills": [
+        "real assets investment",
+        "private markets",
+        "product advocacy",
+        "business acumen"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "associate-fix-analys-charles-river-s-05551656": {
       "summary": "Associate FIX Analyst provides frontline technical support to clients using Charles River’s FIX Network Services, coordinating with clients and internal teams to troubleshoot and resolve issues while ensuring high service availability.",
       "key_skills": [
@@ -5348,6 +5486,43 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "alternative-ops-clea-ssb-t-05551656": {
+      "summary": "This person works with data to build and maintain data pipelines and models.",
+      "key_skills": [
+        "python",
+        "data"
+      ],
+      "core_skills": [
+        "python"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "anti-money-launderin-int-l-fund-serv-05551656": {
+      "summary": "Manages client AML KYC periodic review processes, coordinates with stakeholders to resolve issues, ensures regulatory compliance within 90-day cycles, and handles client communications.",
+      "key_skills": [
+        "aml",
+        "kyc",
+        "compliance",
+        "regulatory",
+        "client",
+        "periodic",
+        "reviews",
+        "oversight"
+      ],
+      "core_skills": [
+        "procedural",
+        "technical",
+        "administrative",
+        "organizational"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "communications--avp--ssga-trust-comp-05551656": {
       "summary": "The AVP leads paid social, influencer, and organic content campaigns while managing agency relationships, budget tracking, and cross-functional execution.",
       "key_skills": [
@@ -5450,6 +5625,29 @@
         "operational workflows"
       ],
       "seniority_signal": "assistant vice president",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "transfer-agency-and--ssga-trust-comp-05551656": {
+      "summary": "Manages day-to-day mutual fund operations overseeing multiple Transfer Agents, including call center, blue sky, 22c2, NSCC trade activity, monthly/quarterly statements, tax forms, daily cap stock activity, foreign accounts, fulfillment, escheatment, and quarterly/annual due diligence reviews.",
+      "key_skills": [
+        "transfer agency",
+        "intermediary oversight",
+        "mutual fund operations",
+        "call center",
+        "blue sky",
+        "22c2",
+        "nscc trade activity",
+        "monthly/quarterly statements"
+      ],
+      "core_skills": [
+        "transfer agency oversight",
+        "financial intermediary operations",
+        "governance standards",
+        "continuous improvement"
+      ],
+      "seniority_signal": "avp",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
@@ -6636,6 +6834,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "senior-data-lakehous-ssb-t-05551657": {
+      "summary": "Designs and leads the build-out of a Legal Data Lakehouse platform on AWS and Databricks, driving architecture, engineering, and governance for scalable, secure, and compliant data capabilities in legal operations.",
+      "key_skills": [
+        "databricks",
+        "aws",
+        "data architecture",
+        "data engineering",
+        "data governance",
+        "security",
+        "compliance",
+        "ai/ml"
+      ],
+      "core_skills": [
+        "databricks",
+        "aws",
+        "data architecture",
+        "data engineering"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "fund-accounting---ad-state-street-05551657": {
       "summary": "Manages a team of financial services professionals to deliver accounting and administrative services for alternative investment client relationships, including income allocation, fee calculations, capital events processing, and portfolio accounting.",
       "key_skills": [
@@ -6729,6 +6950,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "ai-engineer---senior-ssb-t-05551657": {
+      "summary": "Serves as the highest tier technical support for enterprise-grade Generative AI platforms across Azure and AWS, resolving complex production incidents and optimizing platform performance.",
+      "key_skills": [
+        "azure",
+        "aws",
+        "databricks",
+        "python",
+        "cloud",
+        "ml",
+        "ai",
+        "generative_ai"
+      ],
+      "core_skills": [
+        "root_cause_analysis",
+        "incident_management",
+        "cloud_automation",
+        "itil"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "alternative-operatio-ssb-t-05551657": {
       "summary": "This person works with data to build and maintain data pipelines and models.",
@@ -6828,6 +7072,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "private-credit-fund--int-l-fund-serv-05551657": {
+      "summary": "Assists in managing staff, internal workflow, client deadlines, and relationships while reviewing financial work papers and fee calculations for private credit funds.",
+      "key_skills": [
+        "fund accounting",
+        "private credit",
+        "administrative services",
+        "client relationships",
+        "trade operations",
+        "investor services",
+        "custody",
+        "tax"
+      ],
+      "core_skills": [
+        "critical thinking",
+        "problem solving",
+        "decision making",
+        "leadership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "global-head-of-portf-ssga-trust-comp-05551657": {
       "summary": "Oversees global technology strategy for portfolio management platforms to support front office investment workflows across public and private markets.",
@@ -7289,6 +7556,20 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "senior-security-engi-ssb-t-05551657": {
+      "summary": "This person works with data to build and maintain data pipelines and models.",
+      "key_skills": [
+        "python",
+        "data"
+      ],
+      "core_skills": [
+        "python"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "etf-distribution-lat-ssga-trust-comp-05551657": {
       "summary": "The VP1 leads ETF distribution and sales initiatives for Latin American wealth and institutional clients, focusing on Mexico to drive asset growth and promote ETF offerings.",
       "key_skills": [
@@ -7678,6 +7959,27 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "technical-account-ma-benchling-45006551": {
+      "summary": "Technical Account Manager supporting enterprise life science customers to optimize Benchling platform usage post-go-live, managing multi-workstream Success Packages and driving adoption through proactive engagement with stakeholders.",
+      "key_skills": [
+        "ai",
+        "scientific_data",
+        "structured_data",
+        "biotech",
+        "molecular_biology",
+        "biochemistry",
+        "genetics",
+        "bioengineering"
+      ],
+      "core_skills": [
+        "project_management",
+        "scientific_acumen"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "quality-assurance-le-headway-45006551": {
       "summary": "Owns end-to-end quality assurance program areas including calibration, AI analytics, and partner oversight to improve customer experience through data-driven insights and actionable recommendations.",
       "key_skills": [
@@ -8014,6 +8316,34 @@
         "risk analysis",
         "model validation",
         "regulatory compliance"
+      ],
+      "seniority_signal": "assistant vice president",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "production-applicati-ssb-t-76547483": {
+      "summary": "Manages end-to-end support, monitoring, and incident management for mainframe accounting processes and SWIFT messaging flows while ensuring operational stability and data accuracy in financial transactions.",
+      "key_skills": [
+        "mainframe",
+        "swift",
+        "fund accounting",
+        "custody operations",
+        "cics",
+        "cobol",
+        "db2",
+        "jcl",
+        "prometheus",
+        "splunk",
+        "grafana",
+        "python",
+        "shell"
+      ],
+      "core_skills": [
+        "mainframe integration",
+        "devsecops",
+        "cloud transformation",
+        "observability"
       ],
       "seniority_signal": "assistant vice president",
       "role_type": "ic",
@@ -10622,6 +10952,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "head-of-customer-ai--asana-66795106": {
+      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption and revenue growth through cross-functional change management.",
+      "key_skills": [
+        "ai transformation",
+        "customer experience",
+        "revenue growth",
+        "cross-functional collaboration",
+        "ai activation",
+        "roi validation",
+        "workflow agentification",
+        "customer success"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "operational leadership",
+        "ai implementation",
+        "cross-functional change management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "renewal-manager-asana-66795106": {
       "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks",
       "key_skills": [
@@ -10643,29 +10996,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
-    },
-    "senior-software-engi-asana-66795106": {
-      "summary": "Senior Software Engineer designs, builds, and ships features for AI-powered workflows in Asana's AI Studio, working across the stack with Product, Design, Data Science, and Engineering teams to deliver scalable systems.",
-      "key_skills": [
-        "ai",
-        "software",
-        "engineering",
-        "python",
-        "machine_learning",
-        "data_science",
-        "cloud",
-        "microservices"
-      ],
-      "core_skills": [
-        "product_engineering",
-        "cross_functional_collaboration",
-        "technical_design",
-        "code_quality"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "seo-content-manager-asana-66795106": {
       "summary": "Owns strategy and execution for keyword targeting, content library development, and organic visibility initiatives in AI-driven search environments.",
@@ -10689,52 +11019,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "asset-protection-lea-carvana-66795106": {
-      "summary": "Oversees day-to-day activities of Safe & Secure team members to ensure safety and asset protection at Carvana headquarters facilities.",
-      "key_skills": [
-        "asset protection",
-        "security",
-        "safety",
-        "incident management",
-        "incident response",
-        "risk assessment",
-        "process improvement",
-        "compliance"
-      ],
-      "core_skills": [
-        "leadership",
-        "training",
-        "performance management",
-        "stakeholder communication"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "associate-general-ma-carvana-66795106": {
-      "summary": "Oversees multiple reconditioning lines and ensures production metrics are met while managing facilities for cost, quality, and target achievement.",
-      "key_skills": [
-        "reconditioning",
-        "production",
-        "metrics",
-        "quality",
-        "root cause analysis",
-        "continuous improvement",
-        "team leadership",
-        "facility management"
-      ],
-      "core_skills": [
-        "root cause analysis",
-        "continuous improvement",
-        "team leadership",
-        "facility management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "cosmetic-supervisor--carvana-66795106": {
       "summary": "disrupts car buying status quo",
@@ -10765,25 +11049,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "senior-paintless-den-carvana-66795106": {
-      "summary": "Senior Paintless Dent Repair Technician performs advanced paintless dent repair using glue-pulling techniques, hail repair, and body line corrections on vehicles.",
-      "key_skills": [
-        "pdr",
-        "glue-pulling",
-        "hail repair",
-        "repair creases",
-        "body lines",
-        "larger dents"
-      ],
-      "core_skills": [
-        "pdr",
-        "glue-pulling"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "inside-account-execu-toast-66795107": {
       "summary": "Generates list of prospective restaurants, manages sales cycle from initial call to close, conducts demos, develops customized solutions, and partners with cross-functional teams to ensure delivery.",
@@ -11446,6 +11711,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "manager--observabili-grafanalabs-66795107": {
+      "summary": "Manages a team of Observability Architects to guide strategic customers through onboarding, adoption, and expansion while ensuring their requirements are met with Grafana's platform.",
+      "key_skills": [
+        "observability",
+        "architect",
+        "customer_success",
+        "sales_engineering",
+        "technical_leadership",
+        "product_management",
+        "engineering",
+        "cloud"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "customer_success",
+        "sales_engineering",
+        "product_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "observability-archit-grafanalabs-66795107": {
       "summary": "Observability Architect designs and guides complex observability solutions for customers, ensuring Grafana's technology is deeply embedded into mission-critical systems while driving customer success and product feedback.",
       "key_skills": [
@@ -11802,6 +12090,29 @@
         "qbrs"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "enterprise-sales-dev-forter-66795107": {
+      "summary": "Enterprise Sales Development Representative sources highly-qualified opportunities for Account Executives through proactive outreach to assigned accounts, strategizing cross-functionally with sales, channel, and marketing on prospecting plans.",
+      "key_skills": [
+        "enterprise sales development",
+        "prospecting",
+        "outbound prospecting",
+        "sales cycle",
+        "customer acquisition",
+        "revenue growth",
+        "tech solutions",
+        "e-commerce"
+      ],
+      "core_skills": [
+        "proactive outreach",
+        "data analysis",
+        "communication",
+        "sales strategy"
+      ],
+      "seniority_signal": "entry",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
@@ -12597,6 +12908,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-director--it--bicara-therapeu-66795108": {
+      "summary": "Serves as the primary IT partner to Medical Affairs, Commercial, Market Access, and Patient Advocacy teams, ensuring alignment between business priorities and technology solutions while leading the design and implementation of a unified digital ecosystem for CRM, field engagement, and patient engagement.",
+      "key_skills": [
+        "it business partner",
+        "digital strategy",
+        "medical affairs",
+        "commercial",
+        "patient engagement",
+        "crm",
+        "mlr",
+        "data analytics"
+      ],
+      "core_skills": [
+        "it strategy",
+        "cross-functional leadership",
+        "regulatory compliance",
+        "vendor management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-director--reg-bicara-therapeu-66795108": {
       "summary": "Senior Director of Regulatory Affairs leads US regulatory strategy for biologics pipeline from IND through BLA submission and approval, managing a small team while partnering with cross-functional teams.",
       "key_skills": [
@@ -13103,26 +13437,26 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "business-development-urbancompass-53241510": {
-      "summary": "Business Development Representative educates Compass agents on strategic growth opportunities and identifies prospective agents for Strategic Growth Managers through outreach and relationship building.",
+    "account-executive-urbancompass-53241510": {
+      "summary": "Drives net-new revenue by recruiting top-producing agents to Compass through direct engagement with decision-makers in the real estate industry.",
       "key_skills": [
-        "business development",
-        "sales pipeline",
-        "outreach",
-        "cold-calling",
-        "email marketing",
-        "linkedin campaigns",
-        "crm management",
-        "strategic growth"
+        "sales",
+        "strategic_growth",
+        "revenue_generation",
+        "agent_acquisition",
+        "market_expansion",
+        "client_engagement",
+        "commission_management",
+        "quota_carrying"
       ],
       "core_skills": [
         "sales",
-        "communication",
-        "problem solving",
-        "leadership"
+        "strategic_growth",
+        "revenue_generation",
+        "agent_acquisition"
       ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -13240,29 +13574,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-technical-pro-urbancompass-53241510": {
-      "summary": "Drives high-impact technical initiatives across Compass's platform, managing full life cycles of programs from third-party SaaS implementations to system scalability, while ensuring execution efficiency and cross-functional alignment.",
-      "key_skills": [
-        "technical program management",
-        "agile practices",
-        "microservices architecture",
-        "containerization",
-        "continuous integration",
-        "continuous delivery",
-        "third party software management",
-        "cross-functional collaboration"
-      ],
-      "core_skills": [
-        "technical program management",
-        "agile practices",
-        "microservices architecture",
-        "containerization"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "strategic-growth-man-urbancompass-53241510": {
       "summary": "Strategic Growth Manager drives net-new revenue by recruiting top-producing agents to Compass through direct sales of the Compass value proposition, focusing on high-impact engagement with decision-makers in the field.",
       "key_skills": [
@@ -13283,6 +13594,28 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "emergency-veterinari-veterinaryemerg-53241510": {
+      "summary": "Emergency Veterinarian handles medical cases, performs surgeries and endoscopy, and provides customer communication for pets in a 24/7 emergency setting.",
+      "key_skills": [
+        "emergency_veterinary",
+        "diagnosis",
+        "physical_examination",
+        "surgery",
+        "endoscopy",
+        "triage",
+        "medical_records",
+        "customer_communication"
+      ],
+      "core_skills": [
+        "emergency_medicine",
+        "veterinary_surgery",
+        "endoscopy"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -13654,6 +13987,28 @@
       "core_skills": [
         "clinical_acumen",
         "communication_skills"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "psychiatric-nurse-pr-lifestance-53241510": {
+      "summary": "Psychiatric Mental Health Nurse Practitioners provide mental healthcare services to children and adults in a hybrid work environment, combining in-person visits with telehealth.",
+      "key_skills": [
+        "psychiatric mental health nursing",
+        "nursing",
+        "mental health",
+        "healthcare",
+        "prescribing",
+        "telehealth",
+        "clinical practice",
+        "behavioral health"
+      ],
+      "core_skills": [
+        "psychiatric mental health nursing",
+        "nursing",
+        "mental health"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -14092,29 +14447,6 @@
         "microbial fermentation",
         "recombinant protein production",
         "bioreactors"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "senior-product-desig-urbancompass-39382692": {
-      "summary": "Senior Product Designer designs AI-powered CRM workflows for real estate agents to manage relationships, automate tasks, and grow businesses through scalable enterprise solutions.",
-      "key_skills": [
-        "product_design",
-        "ai",
-        "workflow",
-        "crm",
-        "ux",
-        "multimodal",
-        "user_journey",
-        "prototyping"
-      ],
-      "core_skills": [
-        "systems_thinking",
-        "ai_driven_design",
-        "workflow_solutions",
-        "crm_design"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
