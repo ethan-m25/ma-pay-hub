@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T11:43:50.282293+00:00",
-    "total_jobs": 1773,
-    "enriched": 664
+    "built_at": "2026-06-04T09:54:53.694464+00:00",
+    "total_jobs": 1791,
+    "enriched": 663
   },
   "jobs": {
     "associate-director---flagship-pionee-28696097": {
@@ -10951,29 +10951,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "head-of-customer-ai--asana-66795106": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption and revenue growth through cross-functional change management.",
-      "key_skills": [
-        "ai transformation",
-        "customer experience",
-        "revenue growth",
-        "cross-functional collaboration",
-        "ai activation",
-        "roi validation",
-        "workflow agentification",
-        "customer success"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "operational leadership",
-        "ai implementation",
-        "cross-functional change management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "renewal-manager-asana-66795106": {
       "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks",
