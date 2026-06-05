@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T09:54:53.694464+00:00",
-    "total_jobs": 1791,
-    "enriched": 663
+    "built_at": "2026-06-05T09:52:26.517859+00:00",
+    "total_jobs": 1815,
+    "enriched": 664
   },
   "jobs": {
     "associate-director---flagship-pionee-28696097": {
@@ -13943,6 +13943,29 @@
         "psychiatry",
         "mental_health",
         "behavioral_health"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "pediatric-integrated-lifestance-53241510": {
+      "summary": "Provides integrated behavioral health care within primary care settings, conducting mental health screenings and evidence-based therapy for adult and geriatric patients in fast-paced environments.",
+      "key_skills": [
+        "therapist",
+        "psychologist",
+        "clinical",
+        "behavioral health",
+        "mental health",
+        "psychology",
+        "cognitive behavioral therapy",
+        "motivational interviewing"
+      ],
+      "core_skills": [
+        "clinical acumen",
+        "evidence-based therapies",
+        "primary care integration",
+        "interdisciplinary collaboration"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
