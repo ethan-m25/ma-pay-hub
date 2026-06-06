@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T09:52:26.517859+00:00",
-    "total_jobs": 1815,
-    "enriched": 664
+    "built_at": "2026-06-06T09:52:45.027102+00:00",
+    "total_jobs": 1839,
+    "enriched": 678
   },
   "jobs": {
     "associate-director---flagship-pionee-28696097": {
@@ -14452,6 +14452,340 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-data-scientis-zoox-14394457": {
+      "summary": "Data scientist works with data ops, ML engineers, and developers to improve perception ML model performance through high-quality human and auto-labeled data.",
+      "key_skills": [
+        "data science",
+        "ml models",
+        "perception",
+        "data labeling",
+        "data quality",
+        "data curation",
+        "data engineering",
+        "exploratory data analysis"
+      ],
+      "core_skills": [
+        "sql",
+        "python",
+        "statistical modeling",
+        "data visualization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-staff-machine-zoox-14394457": {
+      "summary": "Develops and fine-tunes multimodal large language models to enhance robotaxis' environmental understanding while collaborating with cross-functional teams to ensure safe and efficient autonomous navigation.",
+      "key_skills": [
+        "ai",
+        "multimodal",
+        "large_language_models",
+        "model_architecture",
+        "training_techniques",
+        "ml_pipelines",
+        "python",
+        "pytorch"
+      ],
+      "core_skills": [
+        "model_architecture",
+        "training_techniques",
+        "ml_pipelines",
+        "python"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "account-executive-arch-co-14394457": {
+      "summary": "Drives new customer acquisition across enterprise and strategic accounts for a financial technology company, managing end-to-end client acquisition processes including lead generation, qualification, product demonstration, and conversion.",
+      "key_skills": [
+        "sales",
+        "customer_acquisition",
+        "enterprise_sales",
+        "consultative_sales",
+        "saaS_sales",
+        "financial_services",
+        "alternative_investments",
+        "capital_calls"
+      ],
+      "core_skills": [
+        "sales",
+        "customer_acquisition"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "enterprise-account-e-arch-co-14394457": {
+      "summary": "Drives enterprise sales execution for financial technology platforms by building relationships with banks and financial institutions to acquire clients through end-to-end sales processes.",
+      "key_skills": [
+        "fintech",
+        "sales",
+        "enterprise",
+        "saaS",
+        "consultative",
+        "problem-solving",
+        "client-acquisition",
+        "market-insights"
+      ],
+      "core_skills": [
+        "sales",
+        "client-acquisition",
+        "consultative",
+        "problem-solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-account-execu-arch-co-14394457": {
+      "summary": "Senior Account Executive drives new business across enterprise and strategic accounts by building relationships with financial firms, managing end-to-end client acquisition, and collaborating cross-functionally to improve product insights.",
+      "key_skills": [
+        "fintech",
+        "sales",
+        "enterprise",
+        "consultative",
+        "saaS",
+        "client acquisition",
+        "product demonstration",
+        "quota attainment"
+      ],
+      "core_skills": [
+        "consultative selling",
+        "complex deal closure",
+        "client relationship management",
+        "product-market fit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-scientist--mo-flagshippioneer-84624669": {
+      "summary": "Senior Scientist designs and builds DNA constructs for programmable medicines using protein engineering and complex DNA library strategies.",
+      "key_skills": [
+        "protein engineering",
+        "complex dna library design",
+        "pooled screening",
+        "car/binder design",
+        "dna libraries",
+        "barcoding strategies",
+        "arrayed screening",
+        "high-throughput workflows"
+      ],
+      "core_skills": [
+        "protein engineering",
+        "dna library design",
+        "pooled screening",
+        "car/binder design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "software-engineer-robinhood-84624669": {
+      "summary": "Software Engineer designs, develops, and operates scalable infrastructure systems to support core product functionality and internal services while ensuring system reliability and security.",
+      "key_skills": [
+        "go",
+        "python",
+        "scala",
+        "kubernetes",
+        "docker",
+        "ec2",
+        "s3",
+        "iam",
+        "vpc",
+        "terraform",
+        "prometheus",
+        "grafana",
+        "datadog",
+        "buildkite",
+        "jenkins",
+        "github",
+        "postgresql",
+        "redis",
+        "dynamodb"
+      ],
+      "core_skills": [
+        "infrastructure",
+        "system reliability",
+        "observability",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "product-strategy---o-vercel-84624669": {
+      "summary": "Owns the EPD rhythm of business, runs ShipOps to enable high-velocity shipping, and establishes product landing frameworks for post-launch adoption and business outcomes.",
+      "key_skills": [
+        "product_operations",
+        "business_operations",
+        "strategy",
+        "data_analysis",
+        "cross_functional_stakeholder_management",
+        "software_development_lifecycle",
+        "competitive_intelligence",
+        "agentic_infrastructure"
+      ],
+      "core_skills": [
+        "product_operations",
+        "business_operations",
+        "strategy",
+        "data_analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "asset-protection-lea-carvana-84624669": {
+      "summary": "Oversees day-to-day activities of assigned security team, ensures safety compliance, and manages incident response protocols at Carvana headquarters facilities.",
+      "key_skills": [
+        "asset protection",
+        "security",
+        "safety",
+        "incident management",
+        "incident response",
+        "risk assessment",
+        "process improvement",
+        "training"
+      ],
+      "core_skills": [
+        "incident management",
+        "risk assessment",
+        "process improvement",
+        "training"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "team-lead--market-op-carvana-84624670": {
+      "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
+      "key_skills": [
+        "market operations",
+        "customer experience",
+        "logistics",
+        "team leadership",
+        "process improvement",
+        "strategic planning",
+        "sales",
+        "customer advocacy"
+      ],
+      "core_skills": [
+        "team leadership",
+        "customer experience",
+        "logistics",
+        "process improvement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-product-desig-urbancompass-84624670": {
+      "summary": "Senior Product Designer designs AI-powered CRM workflows for real estate agents to manage relationships, automate tasks, and grow businesses through scalable enterprise solutions.",
+      "key_skills": [
+        "product_design",
+        "ai",
+        "workflow",
+        "crms",
+        "ux",
+        "multimodal",
+        "user_journey",
+        "prototyping"
+      ],
+      "core_skills": [
+        "systems_thinking",
+        "ai_driven_design",
+        "workflow_automation",
+        "crms"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "community-reinvestme-mercury-84624670": {
+      "summary": "Builds and leads Mercury’s regulator-ready CRA program to ensure compliance with community development regulations and digital banking standards while managing community relationships and regulatory reporting.",
+      "key_skills": [
+        "community_reinvestment_act",
+        "regulatory_compliance",
+        "digital_banking",
+        "community_development",
+        "cra_program_management",
+        "data_integrity",
+        "regulatory_examinations",
+        "crp"
+      ],
+      "core_skills": [
+        "regulatory_compliance",
+        "digital_banking",
+        "community_development",
+        "cra_program_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "database-engineer--p-collibra-84624670": {
+      "summary": "Database Engineer optimizes PostgreSQL performance, ensures scalability, and collaborates with cross-functional teams to maintain reliable database infrastructure.",
+      "key_skills": [
+        "postgres",
+        "sql",
+        "database",
+        "performance",
+        "optimization",
+        "cloud",
+        "aws",
+        "gcp"
+      ],
+      "core_skills": [
+        "database_engineering",
+        "performance_tuning",
+        "cloud_infrastructure",
+        "collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "hybrid",
+      "red_flags": [
+        "us_citizen",
+        "us_soil"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--peop-collibra-84624670": {
+      "summary": "Architects an AI-First People Technology ecosystem to integrate intelligent automation into workflows and ensure technology strategy drives business objectives.",
+      "key_skills": [
+        "ai-first",
+        "people technology",
+        "strategy",
+        "automation",
+        "workato",
+        "workday",
+        "greenhouse",
+        "peakon"
+      ],
+      "core_skills": [
+        "strategic advisory",
+        "automation architecture",
+        "ecosystem management",
+        "team leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
