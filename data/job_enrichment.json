@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-06T09:52:45.027102+00:00",
-    "total_jobs": 1839,
-    "enriched": 678
+    "built_at": "2026-06-07T09:51:22.850377+00:00",
+    "total_jobs": 1842,
+    "enriched": 682
   },
   "jobs": {
     "associate-director---flagship-pionee-28696097": {
@@ -14646,29 +14646,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "asset-protection-lea-carvana-84624669": {
-      "summary": "Oversees day-to-day activities of assigned security team, ensures safety compliance, and manages incident response protocols at Carvana headquarters facilities.",
-      "key_skills": [
-        "asset protection",
-        "security",
-        "safety",
-        "incident management",
-        "incident response",
-        "risk assessment",
-        "process improvement",
-        "training"
-      ],
-      "core_skills": [
-        "incident management",
-        "risk assessment",
-        "process improvement",
-        "training"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "team-lead--market-op-carvana-84624670": {
       "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
       "key_skills": [
@@ -14689,29 +14666,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "senior-product-desig-urbancompass-84624670": {
-      "summary": "Senior Product Designer designs AI-powered CRM workflows for real estate agents to manage relationships, automate tasks, and grow businesses through scalable enterprise solutions.",
-      "key_skills": [
-        "product_design",
-        "ai",
-        "workflow",
-        "crms",
-        "ux",
-        "multimodal",
-        "user_journey",
-        "prototyping"
-      ],
-      "core_skills": [
-        "systems_thinking",
-        "ai_driven_design",
-        "workflow_automation",
-        "crms"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -14784,6 +14738,144 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "intermediate-interio-nbbj-84624670": {
+      "summary": "Intermediate Interior Designer at NBBJ Boston studio contributes to diverse projects including academic medical centers, health sciences, corporate, and higher education while leading design work, mentoring team members, and developing design concepts through all project phases.",
+      "key_skills": [
+        "interior design",
+        "revit",
+        "envs",
+        "photoshop",
+        "illustrator",
+        "indesign",
+        "rhino",
+        "3ds max"
+      ],
+      "core_skills": [
+        "client leadership",
+        "conceptual design",
+        "schematic design",
+        "collaboration"
+      ],
+      "seniority_signal": "intermediate",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-customer-mark-recordedfuture-66570728": {
+      "summary": "Serves as strategic owner of customer advocacy program, identifying and developing customer stories and proof points to build credibility, while supporting customer marketing campaigns and retention initiatives.",
+      "key_skills": [
+        "customer advocacy",
+        "storytelling",
+        "case studies",
+        "video testimonials",
+        "proof points",
+        "customer relationships",
+        "upsell campaigns",
+        "retention"
+      ],
+      "core_skills": [
+        "customer advocacy",
+        "storytelling",
+        "case studies",
+        "video testimonials"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-solution-sale-sap-66570728": {
+      "summary": "The Solution Sales Executive partners with the end-to-end account owner to drive solution-specific sales motions, bring in domain expertise to solve customer business challenges, and grow the customer’s SAP footprint through renewal and expansion to support long-term customer success.",
+      "key_skills": [
+        "sales",
+        "solutions",
+        "sap",
+        "btp",
+        "healthcare",
+        "sled",
+        "ai",
+        "paaS"
+      ],
+      "core_skills": [
+        "sales",
+        "solutions",
+        "sap",
+        "btp"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "payroll-specialist-flagshippioneer-52973349": {
+      "summary": "Processes semi-monthly payroll for 600+ employees including exempt and non-exempt staff, collects and reviews intern/co-op timesheets, maintains payroll systems, audits for compliance, and answers employee pay inquiries.",
+      "key_skills": [
+        "payroll processing",
+        "adp system",
+        "employee onboarding",
+        "i-9 compliance",
+        "timesheet management",
+        "payroll auditing",
+        "benefit administration",
+        "gl reconciliation"
+      ],
+      "core_skills": [
+        "payroll processing",
+        "adp system",
+        "employee onboarding",
+        "i-9 compliance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "pioneering-medicines-flagshippioneer-52973349": {
+      "summary": "Leads bioanalytical strategy and execution for drug discovery and development programs, manages outsourced bioanalytical activities through CROs, and serves as operations lead for ADME and PK studies.",
+      "key_skills": [
+        "lc-ms/ms",
+        "method-validation",
+        "cros-management",
+        "biologics",
+        "immunogenicity-assessment",
+        "adme",
+        "pk",
+        "clinical-bioanalysis"
+      ],
+      "core_skills": [
+        "cros-management",
+        "method-validation",
+        "biologics",
+        "immunogenicity-assessment"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-account-execu-sap-52973349": {
+      "summary": "The Account Executive manages end-to-end customer relationships, executes strategic account plans, and drives revenue through sales of SAP cloud solutions while leading virtual account teams.",
+      "key_skills": [
+        "sales",
+        "customer_relationship_management",
+        "account_management",
+        "crm",
+        "up_sell",
+        "cross_sell",
+        "white_space_analysis",
+        "strategic_planning"
+      ],
+      "core_skills": [
+        "sales",
+        "customer_relationship_management",
+        "account_management",
+        "crm"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
