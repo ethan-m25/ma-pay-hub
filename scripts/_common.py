@@ -25,7 +25,7 @@ BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "BSAodGE-EMqeQg5P6m4SW2pFXfrD06r
 
 _exa_exhausted = False
 OLLAMA_API  = "http://127.0.0.1:11434/api/generate"
-MODEL       = "qwen2.5:14b"
+MODEL       = "gemma4:12b"
 TODAY       = date.today().isoformat()
 SHARED_DIR  = os.path.expanduser("~/.openclaw/shared")
 OUTPUT_FILE = os.path.join(SHARED_DIR, f"ma-jobs-raw-{TODAY}.txt")
